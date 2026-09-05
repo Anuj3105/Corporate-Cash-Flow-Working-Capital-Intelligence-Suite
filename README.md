@@ -45,3 +45,6 @@ The data model is built using a Star Schema with active relationships:
 * **Modeling & Calculations:** DAX (Data Analysis Expressions), Star Schema
 * **ETL & Synthesis:** Python (`datetime`, synthetic relational generation), CSV pipelines
 * **Design:** Custom Dark SaaS Executive UI (`#11161B`)
+
+# Dashboard
+![Dashboard Preview](Financial_dashboard.png)
